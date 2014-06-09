@@ -19,6 +19,14 @@ a img {
 	list-style: none; 
 }
 
+.navigation  a{
+	text-decoration: none;
+	margin: 20px auto;
+	text-align: center;
+	padding: 10px 20px;
+	list-style: none; 
+}
+
 body {
 	background: url(../img/bg.jpg);
 	background-color: black;
@@ -81,6 +89,16 @@ section {
 
 }
 
+
+ul {
+	list-style: none;
+}
+
+
+a {
+	color: #888888;
+	text-decoration: none;
+}
 
 /* Show Grid */
 .showgrid {
