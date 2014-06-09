@@ -14,6 +14,11 @@ a img {
 	background: url("../img/grid-bg.png") repeat-y;
 }
 
+.navigation {
+	text-decoration: none;
+	list-style: none; 
+}
+
 body {
 	background: url(../img/bg.jpg);
 	background-color: black;
