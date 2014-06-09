@@ -1,9 +1,4 @@
 /* Your Website Styles */
- body {
- 	background: black;
- 	
- }
-
 
 figure img {
 	width: 100%;
@@ -19,10 +14,10 @@ a img {
 	background: url("../img/grid-bg.png") repeat-y;
 }
 
-/* Your Website Styles */
 body {
 	background: url(../img/bg.jpg);
-	color:  #F0FFF0;
+	background-color: black;
+	color: white;
 }
 
 hr {
